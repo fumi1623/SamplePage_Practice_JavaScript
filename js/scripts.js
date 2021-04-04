@@ -24,5 +24,6 @@
     $('#box3-text').fadeOut('slow');
   }
 
-  
+
 }
+
